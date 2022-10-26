@@ -214,7 +214,7 @@ p{
 
     /*--------------------Blog Carousel--------------------*/
         main .blog{
-            background: url(./assets/gradient-background1.jpg);
+            background: url(../assets/gradient-background1.jpg);
             background-position: right;
             background-repeat: no-repeat;
             height: 100vh;
